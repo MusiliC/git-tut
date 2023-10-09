@@ -7,5 +7,5 @@ const newBranch = () => {
 }
 
 const updatingIssue = () =>{
-     console.log("Issue handling");
+     console.log("Issue handling - i should edit with pull request");
 }
