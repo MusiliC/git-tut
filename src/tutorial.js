@@ -3,6 +3,7 @@ const hell0 = () => {
 }
 
 
-const waitingConflict = () => {
-    console.log("Funny huh!");
+const makingMergeConflict = () => {
+    console.log("Merge conflict");
+
 }
